@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Predict the Wage</h1>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+            <input type="number" name="age" step=any id="age" placeholder="age">
+            <input type="text" id="workclass" name="workclass" placeholder="workclass">
+            <!--    <input type="number" name="Sex" step=any id="Sex" placeholder="Sex"> -->
+            <input type="number" name="fnlwgt" istep=any d="fnlwgt" placeholder="fnlwgt">
+            <input type="text" name="education" step=any id="education" placeholder="education">
+            <input type="number" name="education_num" step=any id="education_num" placeholder="education_num">
+            <input type="text" name="marital_status" step=any id="marital_status" placeholder="marital_status">
+            <input type="text" name="occupation" istep=any d="occupation" placeholder="occupation">
+            <input type="text" name="relationship" step=any id="relationship" placeholder="relationship">
+            <input type="text" name="race" step=any id="race" placeholder="race">
+            <input type="text" name="sex" step=any id="sex" placeholder="sex">
+
+            <input type="number" name="capital_gain" istep=any d="capital_gain" placeholder="capital_gain">
+            <input type="number" name="capital_loss" step=any id="capital_loss" placeholder="capital_loss">
+            <input type="number" name="hours_per_week" step=any id="hours_per_week" placeholder="hours_per_week">
+            <input type="text" name="native_country" step=any id="native_country" placeholder="native_country">
+
+
+
+
+
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</div>
+{% endblock %}

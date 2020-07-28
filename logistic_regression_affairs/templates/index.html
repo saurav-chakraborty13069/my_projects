@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Predict Your chances for Affairs</h1>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+            <!--<input type="number" name="rate_marriage" id="rate_marriage" placeholder="rate_marriage"> -->
+            <label for="rate_marriage">Rate of Marriage:</label>
+              <select id="rate_marriage" name="rate_marriage">
+                <option value="1">Very Poor</option>
+                <option value="2">Poor</option>
+                <option value="3">Satisfactory</option>
+                <option value="4">Good</option>
+                  <option value="5">Very Good</option>
+              </select>
+            <input type="number" name="yrs_married" id="yrs_married" placeholder="years_married">
+            <input type="number" name="children" id="children" placeholder="children">
+            <!--<input type="number" name="religious" id="religious" placeholder="religious"> -->
+            <label for="religious">Religious</label>
+              <select id="religious" name="religious">
+                <option value="1">Not Religious</option>
+                <option value="2">Maybe Religious</option>
+                <option value="3">Good Religious</option>
+                <option value="4">Strongly Religious</option>
+
+              </select>
+            <!--<input type="number" name="educ" id="educ" placeholder="educ">-->
+            <label for="educ">Education</label>
+              <select id="educ" name="educ">
+                <option value="9">Grade school</option>
+                <option value="12">High school</option>
+                <option value="14">Some college</option>
+                <option value="16">College graduate</option>
+                  <option value="17">Some graduate school</option>
+                  <option value="20">Advanced degree</option>
+
+              </select>
+            <!--<input type="number" name="occupation" id="occupation"placeholder="occupation">-->
+            <label for="occupation">Education</label>
+              <select id="occupation" name="occupation">
+                <option value="1">Student</option>
+                <option value="2">Semi skilled</option>
+                <option value="3">White Collar</option>
+                <option value="4">Skilled</option>
+                  <option value="5">Managerial</option>
+                  <option value="6">Professional</option>
+
+              </select>
+            <!--<input type="number" name="occupation_husb" id="occupation_husb"placeholder="occupation_husb">-->
+            <label for="occupation_husb">Education</label>
+              <select id="occupation_husb" name="occupation_husb">
+               <option value="1">Student</option>
+                <option value="2">Semi skilled</option>
+                <option value="3">White Collar</option>
+                <option value="4">Skilled</option>
+                  <option value="5">Managerial</option>
+                  <option value="6">Professional</option>
+
+              </select>
+
+
+
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,50 @@
+2020-07-09/21:29:30		Starting the predict data
+2020-07-09/21:29:30		Starting to load models
+2020-07-09/21:29:30		Loading of models completed
+2020-07-09/21:29:30		Converting data to dataframe
+2020-07-09/21:29:30		Writing to final dataframe
+2020-07-09/21:29:30		Prepared the final dataframe
+2020-07-09/21:29:30		Preprocessing the final dataframe with scalar and pca transform
+2020-07-09/21:29:30		Predicting the result
+2020-07-09/21:29:30		Prediction completed
+2020-07-09/21:29:30		=================================================
+2020-07-09/21:54:40		Starting the predict data
+2020-07-09/21:54:40		Starting to load models
+2020-07-09/21:54:40		Loading of models completed
+2020-07-09/21:54:40		Converting data to dataframe
+2020-07-09/21:54:40		Writing to final dataframe
+2020-07-09/21:54:40		Prepared the final dataframe
+2020-07-09/21:54:40		Preprocessing the final dataframe with scalar and pca transform
+2020-07-09/21:54:40		Predicting the result
+2020-07-09/21:54:40		Prediction completed
+2020-07-09/21:54:40		=================================================
+2020-07-09/22:03:29		Starting the predict data
+2020-07-09/22:03:29		Starting to load models
+2020-07-09/22:03:29		Loading of models completed
+2020-07-09/22:03:29		Converting data to dataframe
+2020-07-09/22:03:29		Writing to final dataframe
+2020-07-09/22:03:29		Prepared the final dataframe
+2020-07-09/22:03:29		Preprocessing the final dataframe with scalar and pca transform
+2020-07-09/22:03:29		Predicting the result
+2020-07-09/22:03:29		Prediction completed
+2020-07-09/22:03:29		=================================================
+2020-07-09/22:05:36		Starting the predict data
+2020-07-09/22:05:36		Starting to load models
+2020-07-09/22:05:36		Loading of models completed
+2020-07-09/22:05:36		Converting data to dataframe
+2020-07-09/22:05:36		Writing to final dataframe
+2020-07-09/22:05:36		Prepared the final dataframe
+2020-07-09/22:05:36		Preprocessing the final dataframe with scalar and pca transform
+2020-07-09/22:05:36		Predicting the result
+2020-07-09/22:05:36		Prediction completed
+2020-07-09/22:05:36		=================================================
+2020-07-09/22:07:22		Starting the predict data
+2020-07-09/22:07:22		Starting to load models
+2020-07-09/22:07:22		Loading of models completed
+2020-07-09/22:07:22		Converting data to dataframe
+2020-07-09/22:07:22		Writing to final dataframe
+2020-07-09/22:07:22		Prepared the final dataframe
+2020-07-09/22:07:22		Preprocessing the final dataframe with scalar and pca transform
+2020-07-09/22:07:22		Predicting the result
+2020-07-09/22:07:22		Prediction completed
+2020-07-09/22:07:22		=================================================

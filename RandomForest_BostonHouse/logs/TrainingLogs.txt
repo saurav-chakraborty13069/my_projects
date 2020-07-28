@@ -1,0 +1,12 @@
+2020-07-16/15:48:38		Start of Training
+2020-07-16/15:48:38		Getting the data
+2020-07-16/15:48:38		Applying the scaler transform
+2020-07-16/15:48:38		Splitting into train and test
+2020-07-16/15:48:38		Intializing a Random forest regressor object
+2020-07-16/15:48:38		Fitting into regressor and checking the score
+2020-07-16/15:48:39		Setting up the parameters
+2020-07-16/15:48:39		Initializing the grid search object
+2020-07-16/15:48:39		Fitting into grid search
+2020-07-16/15:55:21		Fitting with best parameters
+2020-07-16/15:55:21		Saving the models
+2020-07-16/15:55:21		End of Training

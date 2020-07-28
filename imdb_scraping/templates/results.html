@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Review Page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Movies</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>Year</th>
+         <th>Name</th>
+         <th>Rating</th>
+         <th>Certificate</th>
+         <th>Runtime</th>
+          <th>Genre</th>
+          <th>Director</th>
+          <th>Earning</th>
+
+
+      </tr>
+         {% for movie in movies %}
+      <tr>
+
+          <td>{{movie['Year']}}</td>
+         <td>{{movie['Name']}}</td>
+         <td>{{movie['Rating']}}</td>
+         <td>{{movie['Certificate']}} </td>
+          <td>{{movie['Runtime']}} </td>
+          <td>{{movie['Genre']}} </td>
+          <td>{{movie['Director']}} </td>
+          <td>{{movie['Earning']}} </td>
+
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>

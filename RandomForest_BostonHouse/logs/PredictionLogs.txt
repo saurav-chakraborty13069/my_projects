@@ -1,0 +1,27 @@
+2020-07-16/15:58:58		Starting the predict data
+2020-07-16/15:58:58		Starting to load models
+2020-07-16/15:58:58		Loading of models completed
+2020-07-16/15:58:58		Prepared the final dataframe
+2020-07-16/15:58:58		Predicting the result
+2020-07-16/16:00:28		Starting the predict data
+2020-07-16/16:00:28		Starting to load models
+2020-07-16/16:00:28		Loading of models completed
+2020-07-16/16:00:28		Prepared the final dataframe
+2020-07-16/16:00:28		Predicting the result
+2020-07-16/16:01:32		Starting the predict data
+2020-07-16/16:01:32		Starting to load models
+2020-07-16/16:01:32		Loading of models completed
+2020-07-16/16:01:32		Prepared the final dataframe
+2020-07-16/16:01:32		Predicting the result
+2020-07-16/16:02:36		Starting the predict data
+2020-07-16/16:02:36		Starting to load models
+2020-07-16/16:02:37		Loading of models completed
+2020-07-16/16:02:37		Prepared the final dataframe
+2020-07-16/16:02:37		Predicting the result
+2020-07-16/16:03:51		Starting the predict data
+2020-07-16/16:03:51		Starting to load models
+2020-07-16/16:03:52		Loading of models completed
+2020-07-16/16:03:52		Prepared the final dataframe
+2020-07-16/16:03:52		Predicting the result
+2020-07-16/16:03:52		Prediction completed
+2020-07-16/16:03:52		=================================================

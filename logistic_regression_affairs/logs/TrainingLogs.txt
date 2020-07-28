@@ -1,0 +1,72 @@
+2020-07-09/22:03:00		Start of Training
+2020-07-09/22:03:00		Getting the data
+2020-07-09/22:03:01		Received the data
+2020-07-09/22:03:01		Checking data parameters
+2020-07-09/22:03:01		Preprocessing of the data started
+2020-07-09/22:03:01		Deleting the columns ['affairs', 'age'] from dataframe
+2020-07-09/22:03:01		Checking data parameters
+2020-07-09/22:03:01		Deleting the columns ['Intercept'] from dataframe
+2020-07-09/22:03:01		Appying standard scaling to data
+2020-07-09/22:03:01		Scaling of data completed
+2020-07-09/22:03:01		Applying PCA to data
+2020-07-09/22:03:01		PCA transformation of data completed
+2020-07-09/22:03:01		Preprocessing of data completed
+2020-07-09/22:03:01		Initializing and Fitting the model
+2020-07-09/22:03:01		Metrics Calculation Started
+2020-07-09/22:03:01		Accuracy is 0.7167539267015707
+2020-07-09/22:03:01		Precision is 0.9021739130434783
+2020-07-09/22:03:01		Recall is 0.7368421052631579
+2020-07-09/22:03:01		F1 Score is 0.8111692844677139
+2020-07-09/22:03:01		AUC is 0.6174856703481056
+2020-07-09/22:03:01		metrics calculation completed
+2020-07-09/22:03:01		Saving the models at location
+2020-07-09/22:03:01		Saving model completed
+2020-07-09/22:03:01		==========================================================
+2020-07-09/22:05:19		Start of Training
+2020-07-09/22:05:19		Getting the data
+2020-07-09/22:05:19		Received the data
+2020-07-09/22:05:19		Checking data parameters
+2020-07-09/22:05:19		Preprocessing of the data started
+2020-07-09/22:05:19		Deleting the columns ['affairs', 'age'] from dataframe
+2020-07-09/22:05:19		Checking data parameters
+2020-07-09/22:05:20		Deleting the columns ['Intercept'] from dataframe
+2020-07-09/22:05:20		Appying standard scaling to data
+2020-07-09/22:05:20		Scaling of data completed
+2020-07-09/22:05:20		Applying PCA to data
+2020-07-09/22:05:20		PCA transformation of data completed
+2020-07-09/22:05:20		Preprocessing of data completed
+2020-07-09/22:05:20		Initializing and Fitting the model
+2020-07-09/22:05:20		Metrics Calculation Started
+2020-07-09/22:05:20		Accuracy is 0.7167539267015707
+2020-07-09/22:05:20		Precision is 0.9021739130434783
+2020-07-09/22:05:20		Recall is 0.7368421052631579
+2020-07-09/22:05:20		F1 Score is 0.8111692844677139
+2020-07-09/22:05:20		AUC is 0.6174856703481056
+2020-07-09/22:05:20		metrics calculation completed
+2020-07-09/22:05:20		Saving the models at location
+2020-07-09/22:05:20		Saving model completed
+2020-07-09/22:05:20		==========================================================
+2020-07-09/22:07:04		Start of Training
+2020-07-09/22:07:04		Getting the data
+2020-07-09/22:07:04		Received the data
+2020-07-09/22:07:04		Checking data parameters
+2020-07-09/22:07:04		Preprocessing of the data started
+2020-07-09/22:07:04		Deleting the columns ['affairs', 'age'] from dataframe
+2020-07-09/22:07:04		Checking data parameters
+2020-07-09/22:07:04		Deleting the columns ['Intercept'] from dataframe
+2020-07-09/22:07:04		Appying standard scaling to data
+2020-07-09/22:07:04		Scaling of data completed
+2020-07-09/22:07:04		Applying PCA to data
+2020-07-09/22:07:04		PCA transformation of data completed
+2020-07-09/22:07:04		Preprocessing of data completed
+2020-07-09/22:07:04		Initializing and Fitting the model
+2020-07-09/22:07:04		Metrics Calculation Started
+2020-07-09/22:07:04		Accuracy is 0.7167539267015707
+2020-07-09/22:07:04		Precision is 0.9021739130434783
+2020-07-09/22:07:04		Recall is 0.7368421052631579
+2020-07-09/22:07:04		F1 Score is 0.8111692844677139
+2020-07-09/22:07:04		AUC is 0.6174856703481056
+2020-07-09/22:07:04		metrics calculation completed
+2020-07-09/22:07:04		Saving the models at location
+2020-07-09/22:07:04		Saving model completed
+2020-07-09/22:07:04		==========================================================

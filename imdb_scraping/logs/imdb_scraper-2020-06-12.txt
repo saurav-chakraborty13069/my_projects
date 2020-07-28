@@ -1,0 +1,102 @@
+2020-06-12/16:17:49		Getting the year
+2020-06-12/16:17:49		received the year 2018
+2020-06-12/16:17:49		connecting to mongo server
+2020-06-12/16:17:49		connecting to db
+2020-06-12/16:17:49		creating/retrieving collection 2018
+2020-06-12/16:17:49		callign scrape function
+2020-06-12/16:17:49		reading from the url https://www.imdb.com/search/title/?release_date=2018-01-01,2018-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt
+2020-06-12/16:18:50		Exception occurred : HTTPSConnectionPool(host='www.imdb.com', port=443): Max retries exceeded with url: /search/title/?release_date=2018-01-01,2018-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:852)'),))
+2020-06-12/16:21:36		Getting the year
+2020-06-12/16:21:36		received the year 2017
+2020-06-12/16:21:36		connecting to mongo server
+2020-06-12/16:21:36		connecting to db
+2020-06-12/16:21:36		creating/retrieving collection 2017
+2020-06-12/16:21:36		callign scrape function
+2020-06-12/16:21:36		reading from the url https://www.imdb.com/search/title/?release_date=2017-01-01,2017-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt
+2020-06-12/16:21:41		Exception occurred : HTTPSConnectionPool(host='www.imdb.com', port=443): Max retries exceeded with url: /search/title/?release_date=2017-01-01,2017-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f31c9a65c18>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2020-06-12/16:23:18		Getting the year
+2020-06-12/16:23:18		received the year 2018
+2020-06-12/16:23:18		connecting to mongo server
+2020-06-12/16:23:18		connecting to db
+2020-06-12/16:23:18		creating/retrieving collection 2018
+2020-06-12/16:23:18		callign scrape function
+2020-06-12/16:23:18		reading from the url https://www.imdb.com/search/title/?release_date=2018-01-01,2018-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt
+2020-06-12/16:23:20		received the response
+2020-06-12/16:23:32		Request:1; Frequency: 0.07498494420748607 requests/s
+2020-06-12/16:23:32		Start of getting tag details for page 1
+2020-06-12/16:23:33		End of getting tag details for page 1
+2020-06-12/16:23:33		reading from the url https://www.imdb.com/search/title/?release_date=2018-01-01,2018-12-31&sort=num_votes,desc&start=51&ref_=adv_nxt
+2020-06-12/16:23:35		received the response
+2020-06-12/16:23:44		Request:2; Frequency: 0.07764002895648416 requests/s
+2020-06-12/16:23:45		Start of getting tag details for page 51
+2020-06-12/16:23:45		End of getting tag details for page 51
+2020-06-12/16:23:45		returning movies
+2020-06-12/16:23:45		creating dataframe and writing to CSV file
+2020-06-12/16:23:45		inserting into collection 2018
+2020-06-12/16:38:45		Getting the year
+2020-06-12/16:38:45		received the year 2018
+2020-06-12/16:38:45		connecting to mongo server
+2020-06-12/16:38:45		connecting to db
+2020-06-12/16:38:45		creating/retrieving collection 2018
+2020-06-12/16:38:45		showing results from db
+2020-06-12/16:53:38		Getting the year
+2020-06-12/16:53:38		received the year 2018
+2020-06-12/16:53:38		connecting to mongo server
+2020-06-12/16:53:38		connecting to db
+2020-06-12/16:53:38		creating/retrieving collection 2018
+2020-06-12/16:53:38		showing results from db
+2020-06-12/17:15:43		Getting the year
+2020-06-12/17:15:43		received the year 2018
+2020-06-12/17:15:43		connecting to mongo server
+2020-06-12/17:15:43		connecting to db
+2020-06-12/17:15:43		creating/retrieving collection 2018
+2020-06-12/17:15:43		showing results from db
+2020-06-12/17:21:43		Getting the year
+2020-06-12/17:21:43		received the year 2018
+2020-06-12/17:21:43		connecting to mongo server
+2020-06-12/17:21:43		connecting to db
+2020-06-12/17:21:43		creating/retrieving collection 2018
+2020-06-12/17:21:43		showing results from db
+2020-06-12/17:22:55		Getting the year
+2020-06-12/17:22:55		received the year 2018
+2020-06-12/17:22:55		connecting to mongo server
+2020-06-12/17:22:55		connecting to db
+2020-06-12/17:22:55		creating/retrieving collection 2018
+2020-06-12/17:22:55		showing results from db
+2020-06-12/17:23:41		Getting the year
+2020-06-12/17:23:41		received the year 2018
+2020-06-12/17:23:41		connecting to mongo server
+2020-06-12/17:23:41		connecting to db
+2020-06-12/17:23:41		creating/retrieving collection 2018
+2020-06-12/17:23:41		showing results from db
+2020-06-12/17:23:45		Getting the year
+2020-06-12/17:23:45		received the year 2018
+2020-06-12/17:23:45		connecting to mongo server
+2020-06-12/17:23:45		connecting to db
+2020-06-12/17:23:45		creating/retrieving collection 2018
+2020-06-12/17:23:45		showing results from db
+2020-06-12/17:25:43		Getting the year
+2020-06-12/17:25:43		received the year 2018
+2020-06-12/17:25:43		connecting to mongo server
+2020-06-12/17:25:43		connecting to db
+2020-06-12/17:25:43		creating/retrieving collection 2018
+2020-06-12/17:25:43		showing results from db
+2020-06-12/17:55:11		Getting the year
+2020-06-12/17:55:11		received the year 2016
+2020-06-12/17:55:11		connecting to mongo server
+2020-06-12/17:55:11		connecting to db
+2020-06-12/17:55:11		creating/retrieving collection 2016
+2020-06-12/17:55:11		callign scrape function
+2020-06-12/17:55:11		reading from the url https://www.imdb.com/search/title/?release_date=2016-01-01,2016-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt
+2020-06-12/17:55:13		received the response
+2020-06-12/17:55:21		Request:1; Frequency: 0.10494578331807759 requests/s
+2020-06-12/17:55:23		Start of getting tag details for page 1
+2020-06-12/17:55:24		End of getting tag details for page 1
+2020-06-12/17:55:24		reading from the url https://www.imdb.com/search/title/?release_date=2016-01-01,2016-12-31&sort=num_votes,desc&start=51&ref_=adv_nxt
+2020-06-12/17:55:25		received the response
+2020-06-12/17:55:34		Request:2; Frequency: 0.08739354202908492 requests/s
+2020-06-12/17:55:36		Start of getting tag details for page 51
+2020-06-12/17:55:37		End of getting tag details for page 51
+2020-06-12/17:55:37		returning movies
+2020-06-12/17:55:37		creating dataframe and writing to CSV file
+2020-06-12/17:55:37		inserting into collection 2016
